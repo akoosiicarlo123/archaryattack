@@ -18,10 +18,7 @@
         "country": "Australia",
         "address": "at 15th St NW",
         "link": "http://archeryattack.com/australia/adelaide/",
-        "state": "D.C.",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket" 
+        "state": "D.C."
       }
     },
     {
@@ -41,10 +38,7 @@
         "country": "Australia",
         "address": "at 22nd St NW",
         "link": "http://archeryattack.com/australia/adelaide/",
-        "state": "D.C.",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
+        "state": "D.C."
       }
     },
     {
@@ -65,9 +59,6 @@
         "address": "at Dupont Circle",
         "link": "http://archeryattack.com/australia/darwin/",
         "state": "D.C."
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
       }
     },
     {
@@ -87,10 +78,7 @@
         "country": "Australia",
         "address": "at 34th St NW",
         "link": "http://archeryattack.com/australia/mackay/",
-        "state": "D.C.",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
+        "state": "D.C."
       }
     },
     {
@@ -110,10 +98,7 @@
         "country": "Australia",
         "address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/australia/melbourne/",
-        "state": "D.C.",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
+        "state": "D.C."
       }
     },
     {
@@ -131,10 +116,7 @@
         "country": "Australia",
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/australia/perth/",
-        "state": "MD",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
+        "state": "MD"
       }
     },
     {
@@ -154,10 +136,7 @@
         "country": "Australia",
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/australia/sydney/",
-        "state": "MD",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
+        "state": "MD"
       }
     },
     {
@@ -177,10 +156,7 @@
         "country": "Australia",
         "address": "btw Explorer & Library",
         "link": "http://archeryattack.com/toowoomba/",
-        "state": "VA",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
+        "state": "VA"
       }
     },
     {
@@ -200,10 +176,7 @@
         "country": "Australia",
         "address": "at N Randolph St.",
         "link": "http://archeryattack.com/whyalla/",
-        "state": "VA",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
+        "state": "VA"
       }
     },
     {
@@ -223,10 +196,7 @@
         "country": "Philippines",
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/philippines/manila/",
-        "state": "PA",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
+        "state": "PA"
       }
     },
     {
@@ -246,10 +216,7 @@
         "country": "New Zealand",
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/auckland/",
-        "state": "PA",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
+        "state": "PA"
       }
     },
     {
@@ -269,10 +236,7 @@
         "country": "United Kingdom",
         "address": "at 19th St",
         "link": "http://archeryattack.com/lytham/",
-        "state": "D.C.",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
+        "state": "D.C."
       }
     },
     {
@@ -292,10 +256,7 @@
         "country": "Ukraine",
         "address": "at 19th St",
         "link": "http://archeryattack.com/ukraine/kiev/",
-        "state": "D.C.",
-	"marker-color": "#3ca0d3",
-        "marker-size": "large",
-       "marker-symbol": "rocket"
+        "state": "D.C."
       }
     }
   ]
