@@ -19,6 +19,9 @@
         "address": "at 15th St NW",
         "link": "http://archeryattack.com/australia/adelaide/",
         "state": "D.C."
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket'  
       }
     },
     {
@@ -39,6 +42,9 @@
         "address": "at 22nd St NW",
         "link": "http://archeryattack.com/australia/adelaide/",
         "state": "D.C."
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     },
     {
@@ -59,6 +65,9 @@
         "address": "at Dupont Circle",
         "link": "http://archeryattack.com/australia/darwin/",
         "state": "D.C."
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     },
     {
@@ -79,6 +88,9 @@
         "address": "at 34th St NW",
         "link": "http://archeryattack.com/australia/mackay/",
         "state": "D.C."
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     },
     {
@@ -99,6 +111,9 @@
         "address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/australia/melbourne/",
         "state": "D.C."
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     },
     {
@@ -117,6 +132,9 @@
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/australia/perth/",
         "state": "MD"
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     },
     {
@@ -137,6 +155,9 @@
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/australia/sydney/",
         "state": "MD"
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     },
     {
@@ -157,6 +178,9 @@
         "address": "btw Explorer & Library",
         "link": "http://archeryattack.com/toowoomba/",
         "state": "VA"
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     },
     {
@@ -177,6 +201,9 @@
         "address": "at N Randolph St.",
         "link": "http://archeryattack.com/whyalla/",
         "state": "VA"
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     },
     {
@@ -197,6 +224,9 @@
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/philippines/manila/",
         "state": "PA"
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     },
     {
@@ -217,6 +247,9 @@
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/auckland/",
         "state": "PA"
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     },
     {
@@ -237,6 +270,9 @@
         "address": "at 19th St",
         "link": "http://archeryattack.com/lytham/",
         "state": "D.C."
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     },
     {
@@ -257,6 +293,9 @@
         "address": "at 19th St",
         "link": "http://archeryattack.com/ukraine/kiev/",
         "state": "D.C."
+	'marker-color': '#3ca0d3',
+        'marker-size': 'large',
+        'marker-symbol': 'rocket' 
       }
     }
   ]
