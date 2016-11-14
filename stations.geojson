@@ -1,4 +1,3 @@
-
 {
   "type": "FeatureCollection",
   "features": [
@@ -18,7 +17,7 @@
         "city": "Adelaide",
         "country": "Australia",
         "address": "at 15th St NW",
-        "postalCode": "20005",
+        "link": "http://archeryattack.com/australia/adelaide/",
         "state": "D.C."
       }
     },
@@ -27,7 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.019682,-27.499906
+          153.023463,
+      -27.468942
         ]
       },
       "properties": {
@@ -37,7 +37,7 @@
         "city": "Brisbane",
         "country": "Australia",
         "address": "at 22nd St NW",
-        "postalCode": "20037",
+        "link": "http://archeryattack.com/australia/adelaide/",
         "state": "D.C."
       }
     },
@@ -46,7 +46,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.879908,-12.472106
+            130.840967,
+      -12.460523
         ]
       },
       "properties": {
@@ -56,7 +57,7 @@
         "city": "Darwin",
         "country": "Australia",
         "address": "at Dupont Circle",
-        "postalCode": "20036",
+        "link": "http://archeryattack.com/australia/darwin/",
         "state": "D.C."
       }
     },
@@ -65,7 +66,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.186689,-21.136849
+          149.186455,
+      -21.142007
         ]
       },
       "properties": {
@@ -75,7 +77,7 @@
         "city": "Mackay",
         "country": "Australia",
         "address": "at 34th St NW",
-        "postalCode": "20007",
+        "link": "http://archeryattack.com/australia/mackay/",
         "state": "D.C."
       }
     },
@@ -84,7 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.952582,-38.083761
+          144.963066,
+      -37.814211
         ]
       },
       "properties": {
@@ -94,7 +97,7 @@
         "city": "Melbourne",
         "country": "Australia",
         "address": "btwn 2nd & 3rd Sts. SE",
-        "postalCode": "20003",
+        "link": "http://archeryattack.com/australia/melbourne/",
         "state": "D.C."
       }
     },
@@ -103,7 +106,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.86655,-31.942467
+           115.860502,
+      -31.952694
         ]
       },
       "properties": {
@@ -111,7 +115,7 @@
         "city": "Perth",
         "country": "Australia",
 		"address": "btwn 2nd & 3rd Sts. SE",
-        "postalCode": "20740",
+        "link": "http://archeryattack.com/australia/perth/",
         "state": "MD"
       }
     },
@@ -120,7 +124,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -33.854864, 151.216403
+          151.21644,
+      -33.854816
         ]
       },
       "properties": {
@@ -130,7 +135,7 @@
         "city": "Sydney",
         "country": "Australia",
 		"address": "btwn 2nd & 3rd Sts. SE",
-        "postalCode": "20814",
+        "link": "http://archeryattack.com/australia/sydney/",
         "state": "MD"
       }
     },
@@ -139,7 +144,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         151.950961,-27.559045
+         151.953328,
+      -27.561037
         ]
       },
       "properties": {
@@ -149,7 +155,7 @@
         "city": "Toowoomba",
         "country": "Australia",
         "address": "btw Explorer & Library",
-        "postalCode": "20190",
+        "link": "http://archeryattack.com/toowoomba/",
         "state": "VA"
       }
     },
@@ -158,7 +164,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          137.577745,-33.020595
+          137.580126,
+      -33.038083
         ]
       },
       "properties": {
@@ -168,7 +175,7 @@
         "city": "Whyalla",
         "country": "Australia",
         "address": "at N Randolph St.",
-        "postalCode": "22203",
+        "link": "http://archeryattack.com/whyalla/",
         "state": "VA"
       }
     },
@@ -177,7 +184,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.985223, 14.593881
+           120.979907,
+      14.590569
         ]
       },
       "properties": {
@@ -187,7 +195,7 @@
         "city": "Manila",
         "country": "Philippines",
 		"address": "btwn 2nd & 3rd Sts. SE",
-        "postalCode": "19003",
+        "link": "http://archeryattack.com/philippines/manila/",
         "state": "PA"
       }
     },
@@ -196,7 +204,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        174.755056,-36.863996
+        174.765565,
+      -36.853427
         ]
       },
       "properties": {
@@ -206,7 +215,7 @@
         "city": "Auckland",
         "country": "New Zealand",
 		"address": "btwn 2nd & 3rd Sts. SE",
-        "postalCode": "19104",
+        "link": "http://archeryattack.com/auckland/",
         "state": "PA"
       }
     },
@@ -215,7 +224,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.963699,53.736884
+           -2.963187,
+      53.736828
         ]
       },
       "properties": {
@@ -225,7 +235,7 @@
         "city": "Lytham",
         "country": "United Kingdom",
         "address": "at 19th St",
-        "postalCode": "20036",
+        "link": "http://archeryattack.com/lytham/",
         "state": "D.C."
       }
     },
@@ -234,7 +244,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.523774,50.450178
+           30.524017,
+      50.450031
         ]
       },
       "properties": {
@@ -244,7 +255,7 @@
         "city": "Kiev",
         "country": "Ukraine",
         "address": "at 19th St",
-        "postalCode": "20036",
+        "link": "http://archeryattack.com/ukraine/kiev/",
         "state": "D.C."
       }
     }
