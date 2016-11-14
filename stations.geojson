@@ -18,7 +18,7 @@
         "country": "Australia",
         "address": "at 15th St NW",
         "link": "http://archeryattack.com/australia/adelaide/",
-        "state": "D.C."
+        "state": "D.C.",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket" 
@@ -41,7 +41,7 @@
         "country": "Australia",
         "address": "at 22nd St NW",
         "link": "http://archeryattack.com/australia/adelaide/",
-        "state": "D.C."
+        "state": "D.C.",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket"
@@ -87,7 +87,7 @@
         "country": "Australia",
         "address": "at 34th St NW",
         "link": "http://archeryattack.com/australia/mackay/",
-        "state": "D.C."
+        "state": "D.C.",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket"
@@ -110,7 +110,7 @@
         "country": "Australia",
         "address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/australia/melbourne/",
-        "state": "D.C."
+        "state": "D.C.",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket"
@@ -131,7 +131,7 @@
         "country": "Australia",
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/australia/perth/",
-        "state": "MD"
+        "state": "MD",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket"
@@ -154,7 +154,7 @@
         "country": "Australia",
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/australia/sydney/",
-        "state": "MD"
+        "state": "MD",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket"
@@ -177,7 +177,7 @@
         "country": "Australia",
         "address": "btw Explorer & Library",
         "link": "http://archeryattack.com/toowoomba/",
-        "state": "VA"
+        "state": "VA",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket"
@@ -200,7 +200,7 @@
         "country": "Australia",
         "address": "at N Randolph St.",
         "link": "http://archeryattack.com/whyalla/",
-        "state": "VA"
+        "state": "VA",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket"
@@ -223,7 +223,7 @@
         "country": "Philippines",
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/philippines/manila/",
-        "state": "PA"
+        "state": "PA",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket"
@@ -246,7 +246,7 @@
         "country": "New Zealand",
 		"address": "btwn 2nd & 3rd Sts. SE",
         "link": "http://archeryattack.com/auckland/",
-        "state": "PA"
+        "state": "PA",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket"
@@ -269,7 +269,7 @@
         "country": "United Kingdom",
         "address": "at 19th St",
         "link": "http://archeryattack.com/lytham/",
-        "state": "D.C."
+        "state": "D.C.",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket"
@@ -292,7 +292,7 @@
         "country": "Ukraine",
         "address": "at 19th St",
         "link": "http://archeryattack.com/ukraine/kiev/",
-        "state": "D.C."
+        "state": "D.C.",
 	"marker-color": "#3ca0d3",
         "marker-size": "large",
        "marker-symbol": "rocket"
