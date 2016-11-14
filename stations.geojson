@@ -1,0 +1,249 @@
+[
+  {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [120.985223, 14.593881]
+    },
+    properties: {
+      title: 'Archery Attack Manila',
+      description: '<a href="http://archeryattack.com/philippines/manila/"><span class="">Manila</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'http://arrowtag.com/wp-content/uploads/archericonwithlogo.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [ -2.963699,53.736884]
+    },
+    properties: {
+      title: 'Archery Attack Lytham',
+      description: '<a href="http://archeryattack.com/lytham/"><span class="">Lytham</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'https://cdn1.iconfinder.com/data/icons/Map-Markers-Icons-Demo-PNG/256/Map-Marker-Marker-Inside-Chartreuse.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+	type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [ 30.523774,50.450178]
+    },
+    properties: {
+      title: 'Archery Attack Kiev',
+      description: '<a href="http://archeryattack.com/ukraine/kiev"><span class="">Kiev</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'https://cdn1.iconfinder.com/data/icons/Map-Markers-Icons-Demo-PNG/256/Map-Marker-Marker-Inside-Chartreuse.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+	type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [ 174.755056,-36.863996]
+    },
+    properties: {
+      title: 'Archery Attack Auckland',
+      description: '<a href="http://archeryattack.com/auckland/"><span class="">Auckland</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'https://cdn1.iconfinder.com/data/icons/Map-Markers-Icons-Demo-PNG/256/Map-Marker-Marker-Inside-Chartreuse.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+	type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [ 130.879908,-12.472106]
+    },
+    properties: {
+      title: 'Archery Attack Darwin',
+      description: '<a href="http://archeryattack.com/australia/darwin/"><span class="">Darwin</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'http://arrowtag.com/wp-content/uploads/archericon.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+	type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [ 149.186689,-21.136849]
+    },
+    properties: {
+      title: 'Archery Attack Mackay',
+      description: '<a href="http://archeryattack.com/australia/mackay/"><span class="">Mackay</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'https://cdn1.iconfinder.com/data/icons/Map-Markers-Icons-Demo-PNG/256/Map-Marker-Marker-Inside-Chartreuse.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+	type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [ 115.86655,-31.942467]
+    },
+    properties: {
+      title: 'Archery Attack Perth',
+      description: '<a href="http://archeryattack.com/australia/perth/"><span class="">Perth</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'http://arrowtag.com/wp-content/uploads/archericonwithlogo.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+	type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [ 137.577745,-33.020595]
+    },
+    properties: {
+      title: 'Archery Attack Whyalla',
+      description: '<a href="http://archeryattack.com/whyalla/"><span class="">Whyalla</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'https://cdn1.iconfinder.com/data/icons/Map-Markers-Icons-Demo-PNG/256/Map-Marker-Marker-Inside-Chartreuse.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+	type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [ 137.577745,-34.918477]
+    },
+    properties: {
+      title: 'Archery Attack Adelaide',
+      description: '<a href="http://archeryattack.com/australia/adelaide/"><span class="">Adelaide</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'https://cdn1.iconfinder.com/data/icons/Map-Markers-Icons-Demo-PNG/256/Map-Marker-Marker-Inside-Chartreuse.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+	type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [ 144.952582,-38.083761]
+    },
+    properties: {
+      title: 'Archery Attack Melbourne',
+      description: '<a href="http://archeryattack.com/australia/melbourne/"><span class="">Melbourne</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'https://cdn1.iconfinder.com/data/icons/Map-Markers-Icons-Demo-PNG/256/Map-Marker-Marker-Inside-Chartreuse.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+	type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [151.225159,-33.855246]
+    },
+    properties: {
+      title: 'Archery Attack Sydney',
+      description: '<a href="http://archeryattack.com/australia/sydney/"><span class="">Sydney</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'https://cdn1.iconfinder.com/data/icons/Map-Markers-Icons-Demo-PNG/256/Map-Marker-Marker-Inside-Chartreuse.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+	type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [153.019682,-27.499906]
+    },
+    properties: {
+      title: 'Archery Attack Brisbane',
+      description: '<a href="http://archeryattack.com/australia/brisbane/"><span class="">Brisbane</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'https://cdn1.iconfinder.com/data/icons/Map-Markers-Icons-Demo-PNG/256/Map-Marker-Marker-Inside-Chartreuse.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  },
+  {
+	type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [151.950961,-27.559045]
+    },
+    properties: {
+      title: 'Archery Attack Toowoomba',
+      description: '<a href="http://archeryattack.com/toowoomba/"><span class="">Toowoomba</span>',
+      image: 'http://bubblesports.wpengine.com/wp-content/uploads/cropped-Archery-Attack2-e1465594087173.jpg',
+      icon: {
+        iconUrl: 'https://cdn1.iconfinder.com/data/icons/Map-Markers-Icons-Demo-PNG/256/Map-Marker-Marker-Inside-Chartreuse.png',
+        iconSize: [35, 35], // size of the icon
+        iconAnchor: [25, 25], // point of the icon which will correspond to marker's location
+        popupAnchor: [0, -25], // point from which the popup should open relative to the iconAnchor
+        className: 'dot'
+      }
+    }
+  }
+];
