@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
   "features": [
 	{
       "type": "Feature",
@@ -11,12 +12,12 @@
         ]
       },
       "properties": {
-	    "phoneFormatted": "1300 94 94 44",
+      "phoneFormatted": "1300 94 94 44",
         "phone": "1300949444",
         "branch": "Archery Attack Perth",
         "state": "Busselton Baptist Camping Centre",
         "country": "Australia",
-		"address": "btwn 2nd & 3rd Sts. SE",
+	"address": "btwn 2nd & 3rd Sts. SE",
         "link": "https://www.google.com/maps/?saddr=&daddr=-33.6581782,115.23701040000003",
         "description": "Busselton Baptist Camping Centre, Caves Road, Siesta Park 6280"
       }
