@@ -1,263 +1,405 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
+	{
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-         138.5999,
-      -34.927458
+           115.23701040000003,
+      -33.6581782 
         ]
       },
       "properties": {
-        "phoneFormatted": "(202) 234-7336",
-        "phone": "2022347336",
-        "branch": "Archery Attack Adelaide",
-        "city": "Adelaide",
-        "country": "Australia",
-        "address": "at 15th St NW",
-        "link": "http://archeryattack.com/australia/adelaide/",
-        "state": "D.C."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.023463,
-      -27.468942
-        ]
-      },
-      "properties": {
-        "phoneFormatted": "(202) 507-8357",
-        "phone": "2025078357",
-        "branch": "Archery Attack Brisbane",
-        "city": "Brisbane",
-        "country": "Australia",
-        "address": "at 22nd St NW",
-        "link": "http://archeryattack.com/australia/adelaide/",
-        "state": "D.C."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-            130.840967,
-      -12.460523
-        ]
-      },
-      "properties": {
-        "phoneFormatted": "(202) 387-9338",
-        "phone": "2023879338",
-        "branch": "Archery Attack Darwin",
-        "city": "Darwin",
-        "country": "Australia",
-        "address": "at Dupont Circle",
-        "link": "http://archeryattack.com/australia/darwin/",
-        "state": "D.C."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.186455,
-      -21.142007
-        ]
-      },
-      "properties": {
-        "phoneFormatted": "(202) 337-9338",
-        "phone": "2023379338",
-        "branch": "Archery Attack Mackay",
-        "city": "Mackay",
-        "country": "Australia",
-        "address": "at 34th St NW",
-        "link": "http://archeryattack.com/australia/mackay/",
-        "state": "D.C."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.963066,
-      -37.814211
-        ]
-      },
-      "properties": {
-        "phoneFormatted": "(202) 547-9338",
-        "phone": "2025479338",
-        "branch": "Archery Attack Melbourne",
-        "city": "Melbourne",
-        "country": "Australia",
-        "address": "btwn 2nd & 3rd Sts. SE",
-        "link": "http://archeryattack.com/australia/melbourne/",
-        "state": "D.C."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-           115.860502,
-      -31.952694
-        ]
-      },
-      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
         "branch": "Archery Attack Perth",
-        "city": "Perth",
+        "state": "Busselton Baptist Camping Centre",
         "country": "Australia",
 		"address": "btwn 2nd & 3rd Sts. SE",
-        "link": "http://archeryattack.com/australia/perth/",
-        "state": "MD"
+        "link": "https://www.google.com/maps/?saddr=&daddr=-33.6581782,115.23701040000003",
+        "description": "Busselton Baptist Camping Centre, Caves Road, Siesta Park 6280"
       }
-    },
-    {
+    },	
+	{
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.21644,
-      -33.854816
+           115.7060313,
+      -32.52706 
         ]
       },
       "properties": {
-        "phoneFormatted": "(301) 654-7336",
-        "phone": "3016547336",
-        "branch": "Archery Attack Sydney",
-        "city": "Sydney",
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Kingsley Fairbridge Reserve",
         "country": "Australia",
 		"address": "btwn 2nd & 3rd Sts. SE",
-        "link": "http://archeryattack.com/australia/sydney/",
-        "state": "MD"
+        "link": "https://www.google.com/maps/dir//-32.5277119,115.7083294/@-32.52706,115.7060313,17z/data=!3m1!4b1",
+        "description": "Kingsley Fairbridge Reserve, Halls Head WA 6210 Australia"
       }
     },
-    {
+	{
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-         151.953328,
-      -27.561037
+           115.7857754,
+      -31.8508246
         ]
       },
       "properties": {
-        "phoneFormatted": "(571) 203-0082",
-        "phone": "5712030082",
-        "branch": "Archery Attack Toowoomba",
-        "city": "Toowoomba",
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Carine Open Space",
         "country": "Australia",
-        "address": "btw Explorer & Library",
-        "link": "http://archeryattack.com/toowoomba/",
-        "state": "VA"
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "https://www.google.com/maps/?saddr=&daddr=-31.8502905,115.78858250000008",
+        "description": "Carine Open Space, Carine WA 6020 Australia"
       }
     },
-    {
+	{
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          137.580126,
-      -33.038083
+           115.76214230000005,
+      -31.7927974
         ]
       },
       "properties": {
-        "phoneFormatted": "(703) 522-2016",
-        "phone": "7035222016",
-        "branch": "Archery Attack Whyalla",
-        "city": "Whyalla",
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Camberwarra Park",
         "country": "Australia",
-        "address": "at N Randolph St.",
-        "link": "http://archeryattack.com/whyalla/",
-        "state": "VA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-           120.979907,
-      14.590569
-        ]
-      },
-      "properties": {
-        "phoneFormatted": "(610) 642-9400",
-        "phone": "6106429400",
-        "branch": "Archery Attack Manila",
-        "city": "Manila",
-        "country": "Philippines",
 		"address": "btwn 2nd & 3rd Sts. SE",
-        "link": "http://archeryattack.com/philippines/manila/",
-        "state": "PA"
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.7927974,115.76214230000005",
+        "description": "Camberwarra Park, Craigie WA 6025 Australia"
       }
     },
-    {
+	{
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-        174.765565,
-      -36.853427
+           115.7441533,
+      -31.7130713
         ]
       },
       "properties": {
-        "phoneFormatted": "(215) 386-1365",
-        "phone": "2153861365",
-        "branch": "Archery Attack Auckland",
-        "city": "Auckland",
-        "country": "New Zealand",
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Corner Selkirk Drive & Menteith Place",
+        "country": "Australia",
 		"address": "btwn 2nd & 3rd Sts. SE",
-        "link": "http://archeryattack.com/auckland/",
-        "state": "PA"
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.7130713,115.7441533",
+        "description": "Corner Selkirk Drive & Menteith Place, Kinross  Kinross WA 6028 Australia"
       }
     },
-    {
+	{
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-           -2.963187,
-      53.736828
+           115.79577510000001,
+      -31.7246173
         ]
       },
       "properties": {
-        "phoneFormatted": "(202) 331-3355",
-        "phone": "2023313355",
-        "branch": "Archery Attack Lytham",
-        "city": "Lytham",
-        "country": "United Kingdom",
-        "address": "at 19th St",
-        "link": "http://archeryattack.com/lytham/",
-        "state": "D.C."
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Jimbub Swamp Park",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.7246173,115.79577510000001",
+        "description": "Jimbub Swamp Park, Waldburg Drive WA 6065 Australia"
       }
     },
-    {
+	{
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-           30.524017,
-      50.450031
+           115.79769140000008,
+      -31.7180879
         ]
       },
       "properties": {
-        "phoneFormatted": "(202) 331-3355",
-        "phone": "2023313355",
-        "branch": "Archery Attack Kiev",
-        "city": "Kiev",
-        "country": "Ukraine",
-        "address": "at 19th St",
-        "link": "http://archeryattack.com/ukraine/kiev/",
-        "state": "D.C."
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Circle Park",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.7180879,115.79769140000008",
+        "description": "Circle Park, Alvarez Parkway, Tapping WA 6065 Australia"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           115.9427346,
+    -31.9218471
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Garvey Park",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.9218471,115.9427346",
+        "description": "Garvey Park Ascot WA 6104 Australia "
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           115.94661500000007,
+    -31.8986398
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Anzac Terrace Reserve",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.8986398,115.94661500000007",
+        "description": "Anzac Terrace Reserve,  Bassendean WA 6054 Australia"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           116.0009245,
+    -31.8133557
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Elmar’s in the Valley",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.8133557,116.0009245",
+        "description": "Elmar's in the Valley, West Swan Road,  Henley Brook WA 6055 Australia"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           115.9992714,
+    -31.8091035
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "West Swan Oval",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.8091035,115.9992714",
+        "description": "West Swan Oval, Henley Brook 6055 Henley Brook WA 6055 Australia "
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           115.83553989999996,
+   -32.0584719
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Somerville Park",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-32.0584719,115.83553989999996",
+        "description": "Somerville Park,  Winthrop WA 6150 Australia"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8611727,
+  -31.9754274
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Sir James Mitchell Park",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.9754274,115.8611727",
+        "description": "Sir James Mitchell Park, South Perth WA 6151 Australia"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.81113789999995,
+		 -31.9988764
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Paul Hasluck Reserve",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.9988764,115.81113789999995",
+        "description": "Paul Hasluck Reserve, Esplanade,  Dalkeith WA 6009 Australia"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.81927210000003,
+		 -31.9871703
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "J H Abrahams Reserve",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.9871703,115.81927210000003",
+        "description": "J H Abrahams Reserve,  Crawley WA 6009 Australia"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.81039839999994,
+		-31.9427097
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Henderson Park",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.9427097,115.81039839999994",
+        "description": "Henderson Park,  Jolimont WA 6014 Australia"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         115.8166592,
+		-31.9454911 
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Lords Recreation Centre",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.9454911,115.8166592",
+        "description": "Lords Recreation Centre, Price Street, Subiaco WA 6008 Australia"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         115.87417200000004,
+		-31.9409375
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Jack Marks Park",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.9409375,115.87417200000004",
+        "description": "Jack Marks Park,  Highgate WA 6003 Australia"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         115.94569109999998,
+		-31.9715374
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Belmont Oval",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.9715374,115.94569109999998",
+        "description": "Belmont Oval, Cloverdale WA 6105 Australia"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         115.92129909999994,
+		-31.9815012
+        ]
+      },
+      "properties": {
+	    "phoneFormatted": "1300 94 94 44",
+        "phone": "1300949444",
+        "branch": "Archery Attack Perth",
+        "state": "Parnham Reserve",
+        "country": "Australia",
+		"address": "btwn 2nd & 3rd Sts. SE",
+        "link": "http://www.google.com/maps/?saddr=&daddr=-31.9815012,115.92129909999994",
+        "description": "Parnham Reserve, Carlisle WA 6101 Australia"
       }
     }
-  ]
+ ]
 }
